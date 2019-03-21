@@ -1,0 +1,38 @@
+title: >
+    CerrajerosBarcelona
+email: >
+    your-email@domain.com
+description: >
+    Cerrajeros Barcelona
+
+baseurl: "/"
+url: http://keralahost.in/cesarlopez
+google_adsense: Your-adsense-code
+
+markdown: kramdown
+
+name: >
+    CerrajerosBarcelona
+
+date: 2019-03-21 03:08:33 +0000
+permalink: /:year/:month/:day/:title
+
+logo: false
+sass:
+    load_paths:
+        - _sass
+        - bs
+paginate: 10
+adsid: ca-pub-8582082279264878
+domain_name: http://keralahost.in/cesarlopez/
+google_analytics: UA-31XXXXXX-X
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+cover: >
+    
+author_image: >
+    
+
+author: >
+    cesarlopez
